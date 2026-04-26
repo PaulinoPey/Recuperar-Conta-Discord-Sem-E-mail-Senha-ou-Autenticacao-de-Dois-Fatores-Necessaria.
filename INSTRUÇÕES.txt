@@ -1,0 +1,35 @@
+0. caso você queria corrigir um erro do discord ou entrar em sua conta sem ter acesso
+ao email ou senha ou autenticação de duas etapas / dois fatores:
+
+*(esse guia serve apenas para quem está logado neste exato momento em seu discord, caso
+seu discord tenha dado algum erro, mas você permaneceu logado, não se preocupe este guia também funciona para você.)
+
+*(AVISO. ANTES DE TUDO, NÃO DESINSTALE OU REINSTALE O SEU DISCORD ANTES DE SEGUIR ESSE GUIA, SIGA APENAS AS INSTRUÇÕES A BAIXO ANTES DE FAZER ALGUMA ALTERAÇÃO EM SEU DISCORD)
+
+1. Use a tecla de atalho: Windows + R.
+
+2. Digite: %appdata% e tecle Enter.
+
+3. Dentro de "Roaming" procure pela pasta 'discord' e abra a mesma.
+
+4. Copie todos os seus arquivos e pastas e os mova para uma pasta tercerizada a qual você preferir, um backup
+
+5. confira se o backup foi concluido corretamente, (recomendo fazer um backup desta pasta terceizada em uma nuvem da sua preferencia, como: MEGA, Google Drive)
+
+6. Após o backup, instale o discord normalmente e ao abrir a tela de login, feche o
+discord, e em seu gerenciador de tarefas, finalize todas as tarefas do discord, todos
+eles usam o nome 'discord'
+
+7. refaça o paço 1. 2. 3., cole todos os seus arquivos e pastas do seu backup na pasta discord dentro de "Roaming"
+
+8. aperte com o botao direito do mouse em sua area de trabalho e clique em "atualizar"
+
+9. abra novamente o seu discord pelo icone de atalho, e seja feliz.
+
+10. (NÃO MANDE ESSE BACKUP OU ESSES ARQUIVOS PARA NINGUÉM, CASO CONTRARIO SUA CONTA PODE SER ROUBADA)
+
+*(se você desinstalou o seu discord ou o formatou antes de seguir esse passo a passo, sinto muito mas este guia não servirá de nada para você.)
+
+se você perdeu acesso de tudo em seu discord e não contém o: email, senha, codigos, chaves de segurança, ou autenticação multifatorial (duas etapas/ dois fatores), esse backup é sua unica salvação. 
+
+(use as informações deste guia como desejar, seja para o bem ou para o mal, estou apenas querendo ajudar quem precisa.)

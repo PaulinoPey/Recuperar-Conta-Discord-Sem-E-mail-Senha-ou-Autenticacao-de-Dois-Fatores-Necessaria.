@@ -1,4 +1,4 @@
-# Recuperar-Conta-Discord
+# Recuperar-Conta-Discord - Sem E-mail, Senha, ou Autenticação de Dois Fatores Necessária.
 Recupere sua conta discord sem precisar ter acesso ao seu Email, senha, ou Autenticação De Dois Fatores.
 
 *(se você desinstalou o seu discord ou o formatou antes de seguir esse passo a passo, sinto muito mas este guia não servirá de nada para você.)
